@@ -1,6 +1,6 @@
 # vue-unused-assets-finder
 
-[![Build Status](https://github.com/pcnoic/vue-unused-assets-finder/actions/workflows/publish.yml/badge.svg)](https://github.com/pcnoic/vue-unused-assets-finder/actions)
+[![Publish to npm](https://github.com/pcnoic/vue-unused-assets-finder/actions/workflows/publish.yaml/badge.svg)](https://github.com/pcnoic/vue-unused-assets-finder/actions/workflows/publish.yaml)
 [![GitHub stars](https://img.shields.io/github/stars/pcnoic/vue-unused-assets-finder)](https://github.com/pcnoic/vue-unused-assets-finder/stargazers)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
 
