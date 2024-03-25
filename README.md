@@ -1,5 +1,10 @@
 # vue-unused-assets-finder
 
+[![Build Status](https://github.com/pcnoic/vue-unused-assets-finder/actions/workflows/publish.yml/badge.svg)](https://github.com/pcnoic/vue-unused-assets-finder/actions)
+[![GitHub stars](https://img.shields.io/github/stars/pcnoic/vue-unused-assets-finder)](https://github.com/pcnoic/vue-unused-assets-finder/stargazers)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
+
+
 Identify and optionally remove unused image assets in a Vue project's codebase. This tool scans for `.vue`, `.jpg`, `.png`, `.svg` and stylesheet assets finding the files within your project that are not linked as in your Vue components. With the `--remove-assets` option, it also removes these unused assets from the filesystem.
 
 ## Installation
